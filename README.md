@@ -6,7 +6,7 @@ Code Ship widget to Shopify Dashing (http://shopify.github.io/dashing/).
 ##  Setup
 
 
-- Copy the contents of the *jobs*, *widgets* and *config* folder into the the jobs, widgets and config (maybe you need create it) folders in your dashing project.
+- Copy the contents of the *jobs*, *widgets* and *config* folder into the jobs, widgets and config (maybe you need create it) folders in your dashing project.
 
 - Edit the codeship.yml file to configure the repository name and ID. The configuration looks like this:
 
